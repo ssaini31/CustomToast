@@ -18,6 +18,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        Toaster.showToast(this, "hiii", 3)
+        Toaster.showToast(this, "hi tyii", 3)
     }
 }
