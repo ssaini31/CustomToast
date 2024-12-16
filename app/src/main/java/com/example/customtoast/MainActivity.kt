@@ -18,6 +18,6 @@ class MainActivity : AppCompatActivity() {
             insets
         }
 
-        Toaster.showToast(this, "hidcdvv regcs  ffregwergejkn   fii", 3)
+        Toaster.showToast(this, "hidcdvv rtcy y d egcs  ffregwergejkn   fii", 3)
     }
 }
